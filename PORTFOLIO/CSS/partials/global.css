@@ -1,0 +1,23 @@
+.text-tile{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 72px;
+    font-family: var(--roboto);
+}
+.text-uppercase{
+    text-transform: uppercase;
+}
+.button{
+    padding: 0.8rem 2.2rem;
+    font-weight: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    font-family: var(--roboto);
+}
+.button.primaryButton{
+    background: var(--gradientColor);
+    background-clip: padding-box;
+    color: whitesmoke;
+}
